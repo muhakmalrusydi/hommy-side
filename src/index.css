@@ -1,0 +1,24 @@
+@import "./styles/variables.css";
+@import "./styles/animations.css";
+
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.font-body {
+  font-family: var(--font-body);
+}
+
+.font-brand {
+  font-family: var(--font-brand);
+}
+
+.font-heading {
+  font-family: var(--font-heading);
+}

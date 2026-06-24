@@ -1,0 +1,18 @@
+:root {
+  --brand-primary: #2563eb;
+  --brand-secondary: #4f46e5;
+
+  --text-primary: #050505;
+  --text-secondary: #f0f0f0;
+
+  --font-body: "Inter", sans-serif;
+  --font-brand: "Special Gothic Condensed One", sans-serif;
+  --font-heading: "DM Serif Text", serif;
+
+  --color-success: #22c55e;
+  --color-danger: #ef4444;
+
+  --radius-xl: 1rem;
+
+  --shadow-lg: 0 10px 15px rgb(0 0 0 / 0.1);
+}
